@@ -59,7 +59,7 @@ Short description of what you built.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adrikaabanerjee/)
 
 ---
 
@@ -69,4 +69,4 @@ Still learning.
 Still breaking things.  
 Still debugging at 2 AM.
 
-But I'm getting better. 🚀
+I am a prefecsationst but i learn. 🚀
