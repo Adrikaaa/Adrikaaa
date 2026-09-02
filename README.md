@@ -32,20 +32,17 @@
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 These are my main projects — the ones I care about most:
 
-- [verifai](https://github.com/Adrikaaa/verifai) — My favourite project: verification/AI-related work (add a short description or demo link here).
-- [PROJECT-MANAGEMENT](https://github.com/Adrikaaa/PROJECT-MANAGEMENT) — Project management app / workflow tool I'm developing (add brief details or demo link).
+- **[VerifAI](https://github.com/Adrikaaa/verifai)** — AI-powered video authenticity detection using Next.js. Built at a hackathon; recognized in SIH Top 20. Tackles deepfake detection with LLMs and computer vision techniques.
 
-If you'd like, I can open each repo to extract README highlights, screenshots, and demo links to make these descriptions richer.
-
----
+- **[PROJECT-MANAGEMENT](https://github.com/Adrikaaa/PROJECT-MANAGEMENT)** — Full-stack MERN app for team workflow & task management. Deployed on Render/Vercel/MongoDB Atlas. Features JWT auth, email verification (Nodemailer), and real-world debugging through cloud deployment challenges (CORS, latency optimization, database architecture).
 
 ## 📊 GitHub Stats
 
-![Adrika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrikaaa&show_icons=true&theme=tokyonight)
+[![Adrika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrikaaa&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/Adrikaaa)
 
 ---
 
