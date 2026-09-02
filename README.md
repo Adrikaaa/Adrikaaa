@@ -34,27 +34,12 @@
 
 ## 📌 Featured Projects
 
-Below are my repositories — click the name to open the project. I added short descriptions where available; for the ones I couldn't infer a description I left a placeholder so I (or you) can fill in more details.
+These are my main projects — the ones I care about most:
 
-- [Adrikaaa (this repo)](https://github.com/Adrikaaa/Adrikaaa) — ☕ Personal profile & portfolio (README and profile site content).
-- [AIML-Course](https://github.com/Adrikaaa/AIML-Course) — (add brief description)
-- [CHATEVAL](https://github.com/Adrikaaa/CHATEVAL) — (add brief description)
-- [FRONTEND-PROJECTS](https://github.com/Adrikaaa/FRONTEND-PROJECTS) — Collection of frontend practice projects (add details)
-- [FVAI](https://github.com/Adrikaaa/FVAI) — (add brief description)
-- [ml-lab-2-Housing-](https://github.com/Adrikaaa/ml-lab-2-Housing-) — (add brief description)
-- [mnist-digit-classification](https://github.com/Adrikaaa/mnist-digit-classification) — MNIST digit classification using TensorFlow/Keras
-- [moviesite](https://github.com/Adrikaaa/moviesite) — 🎥 Movie Site - DevRush Project. A simple movie streaming/explore UI built with HTML & CSS.
-- [PROJECT-MANAGEMENT](https://github.com/Adrikaaa/PROJECT-MANAGEMENT) — (add brief description)
-- [PROJECT-MANAGEMENT-WEB-APP](https://github.com/Adrikaaa/PROJECT-MANAGEMENT-WEB-APP) — (add brief description)
-- [REACT_COURSE](https://github.com/Adrikaaa/REACT_COURSE) — (add brief description)
-- [skycast-](https://github.com/Adrikaaa/skycast-) — (add brief description)
-- [SubHub](https://github.com/Adrikaaa/SubHub) — (add brief description)
-- [test](https://github.com/Adrikaaa/test) — (add brief description)
-- [TO-DO-LIST](https://github.com/Adrikaaa/TO-DO-LIST) — (add brief description)
-- [verifai](https://github.com/Adrikaaa/verifai) — (add brief description)
-- [vrifai](https://github.com/Adrikaaa/vrifai) — (add brief description)
+- [verifai](https://github.com/Adrikaaa/verifai) — My favourite project: verification/AI-related work (add a short description or demo link here).
+- [PROJECT-MANAGEMENT](https://github.com/Adrikaaa/PROJECT-MANAGEMENT) — Project management app / workflow tool I'm developing (add brief details or demo link).
 
-If you'd like, I can open each of these repositories to extract README highlights and sample screenshots to make the project descriptions richer and add demo links / usage instructions.
+If you'd like, I can open each repo to extract README highlights, screenshots, and demo links to make these descriptions richer.
 
 ---
 
