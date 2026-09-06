@@ -22,6 +22,8 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,16 +42,6 @@ These are my main projects — the ones I care about most:
 
 - **[PROJECT-MANAGEMENT](https://github.com/Adrikaaa/PROJECT-MANAGEMENT)** — Full-stack MERN app for team workflow & task management. Deployed on Render/Vercel/MongoDB Atlas. Features JWT auth, email verification (Nodemailer), and real-world debugging through cloud deployment challenges (CORS, latency optimization, database architecture).
 
-## 📊 GitHub Stats
-
-[![Adrika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrikaaa&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/Adrikaaa)
-
----
-
-## 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Adrikaaa&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
@@ -63,5 +55,5 @@ These are my main projects — the ones I care about most:
 Still learning.  
 Still breaking things.  
 Still debugging at 2 AM.
+Also still breathing.
 
-I am a perfectionist but I learn. 🚀
