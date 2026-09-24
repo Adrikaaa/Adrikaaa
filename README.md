@@ -9,7 +9,7 @@
 
 ## 🌱 Currently
 
-- 🔥 Learning Backend Development (Java)
+- 🔥 Learning Backend Development (JS)
 - 🧠 Improving Data Structures & Algorithms
 - ☕ Building projects with Java, React and some ML experiments
 - 🎯 Preparing for placements
