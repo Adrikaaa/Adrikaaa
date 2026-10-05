@@ -44,6 +44,15 @@ These are my main projects — the ones I care about most:
 
 ---
 
+## 📊 Proof of Work
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Adrikaa?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/u/Adrikaa/)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adrikaaa&theme=dark)](https://github.com/Adrikaaa)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adrikaaa&show_icons=true&theme=dark)](https://github.com/Adrikaaa)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrikaaa&layout=compact&theme=dark)](https://github.com/Adrikaaa)
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adrikaabanerjee/)
